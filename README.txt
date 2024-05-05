@@ -1,3 +1,15 @@
-Hello Git and Github
-Mike is great.
-The third line is in a new branch called new-feature.
+# Project Title
+
+**Description** 
+> a brief Description of the Project
+
+**Feature List**
+An orderd list of features
+1. Item one
+2. Item two
+3. item 3
+
+an Unordered list
+- item 
+- item
++ item
