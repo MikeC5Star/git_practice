@@ -15,3 +15,13 @@ const moonLandingFacts = [
   function randomFact() {
     return moonLandingFacts[Math.floor(Math.random() * moonLandingFacts.length)]
   }
+
+  const fact = document.querySelector(".fact");
+  const button = document.querySelector(".new_fact");
+
+  fact.innerHTML = randomFact();
+  
+  button.addEventListener("click", () => {
+    fact.innerHTML = randomFact();
+  })
+
