@@ -1,15 +1,9 @@
 # Project Title
+## Random Fact Generator
 
 **Description** 
-> a brief Description of the Project
+> Program to display a random 'Moon Landing' Fact each time the progam is run.
 
 **Feature List**
-An orderd list of features
-1. Item one
-2. Item two
-3. item 3
-
-an Unordered list
-- item 
-- item
-+ item
+1. Displays a MoonLanding Fact
+2. On button click updates to a new random moonlanding fact
